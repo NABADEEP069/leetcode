@@ -1,6 +1,6 @@
 # leetcode
 
- My LeetCode solutions repository! Here you'll find  solutions to various LeetCode problems ans basic js problems, organized by topic and difficulty.
+ My LeetCode solutions repository ! Here you'll find  solutions to various LeetCode problems ans basic js problems, organized by topic and difficulty.
 
 
 ##  Topics Covered
@@ -11,5 +11,5 @@
 - Dynamic Programming
 - Backtracking
 
-## Will do striver and shradha topic wise dsa sheet  
+## Will do striver and shradha topic wise dsa sheet  soon : 
 https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0#gid=0
